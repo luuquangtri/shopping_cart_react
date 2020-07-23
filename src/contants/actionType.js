@@ -1,0 +1,7 @@
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const CHANGE_MESSAGE = 'CHANGE_MESSAGE';
+export const DELETE_PRODUCT = 'DELETE_PRODUCT';
+export const UPDATE_PRODUCT = 'UPDATE_PRODUCT';
+export const CHANGE_INVENTORY = 'CHANGE_INVENTORY';
+export const CHECK_OUT = 'CHECK_OUT';
+
